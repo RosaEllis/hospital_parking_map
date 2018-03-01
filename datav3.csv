@@ -1,0 +1,185 @@
+orgCode,subType,Title,add1,add2,add3,city,county,postcode,Latitude,Longitude,parkingSpacesAvail,designatedDisabledParkingSpaces,averagePerHourPatientVisitor,averageSixHourVisit,averagePerHourStaff,averagePer40HourWeekStaff
+RMC,Acute,Bolton NHS Foundation Trust,The Royal Bolton Hospital,Minerva Road,Farnworth,Bolton,Lancashire,BL4 0JR,53.6,-2.43,"2,433",113,0.13,0.78,0.06,2.40
+RBV,Acute,The Christie NHS Foundation Trust,550 Wilmslow Road,Withington,,Manchester,Greater Manchester,M20 4BX,53.4,-2.23,887,67,0.5,3.00,0.06,2.40
+RXV,MentalHealth,Greater Manchester West Mental Health NHS Foundation Trust,Prestwich Hospital,Bury New Road,Prestwich,Manchester,Greater Manchester,M25 3BL,53.5,-2.29,"1,174",83,0.5,3.00,0.08,3.20
+RW5,Health and Care,Lancashire Care NHS Foundation Trust,Sceptre Point,Sceptre Way,Bamber Bridge,Preston,Lancashire,PR5 6AW,53.7,-2.64,"1,629",124,0.5,3.00,No Data Provided,No Data Provided
+RT1,MentalHealth,Cambridgeshire and Peterborough NHS Foundation Trust,Elizabeth House,Fulbourn Hospital,Fulbourn,Cambridge,,CB21 5EF,52.2,0.187,"1,058",50,0.56,3.36,0.17,6.80
+RQY,MentalHealth,South West London and St George's Mental Health NHS Trust,Springfield Hospital,61 Glenburnie Road,NULL,London,,SW17 7DJ,51.4,-0.169,"1,008",60,0.59,3.54,0.07,2.80
+RPY,Acute,The Royal Marsden NHS Foundation Trust,Fulham Road,,,London,Greater London,SW3 6JJ,51.5,-0.174,622,40,0.6,3.60,0.21,8.40
+RYV,Health and Care,Cambridgeshire Community Services NHS Trust,Unit 3,Meadow lane,NULL,St. Ives,Cambridgeshire,PE27 4LG,52.3,-0.0676,"1,384",75,0.61,3.66,0.14,5.60
+RL1,Acute,Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Twympath Lane,NULL,Oswestry,Shropshire,SY10 7AG,52.9,-3.03,"1,020",58,0.67,4.02,0.02,0.80
+RNL,Acute,North Cumbria University Hospitals NHS Trust,West Cumberland Hospital,Hensingham,NULL,Whitehaven,Cumberland,CA28 8JG,54.5,-3.56,"2,348",114,0.67,4.02,0.13,5.20
+RBS,Acute,Alder Hey Children's NHS Foundation Trust,Alder Hey Hospital,Eaton Road,West Derby,Liverpool,Merseyside,L12 2AP,53.4,-2.9,"1,800",107,0.67,4.02,0.2,8.00
+R1E,Health and Care,Staffordshire and Stoke On Trent Partnership NHS Trust,"2nd Floor, Morston House",,,Newcastle-under-Lyme,Staffordshire,ST5 1QG,53,-2.23,"1,107",94,0.67,4.02,No Data Provided,No Data Provided
+RX4,MentalHealth,"Northumberland, Tyne and Wear NHS Foundation Trust",St. Nicholas Hospital,Jubilee Road,Gosforth,Newcastle Upon Tyne,Tyne and Wear,NE3 3XT,55,-1.64,"2,244",166,0.67,4.02,No Data Provided,No Data Provided
+RY3,Health and Care,Norfolk Community Health and Care NHS Trust,Elliot House,130 Ber Street,NULL,Norwich,Norfolk,NR1 3FR,52.6,1.3,"1,703",101,0.71,4.26,0.11,4.40
+RQQ,Acute,Hinchingbrooke Health Care NHS Trust,Hinchingbrooke Hospital,Hinchingbrooke Park Road,NULL,Huntingdon,Cambridgeshire,PE29 6NT,52.3,-0.204,"1,248",59,0.73,4.38,0.23,9.20
+RXL,Acute,Blackpool Teaching Hospitals NHS Foundation Trust,Victoria Hospital,Whinney Heys Road,,Blackpool,Lancashire,FY3 8NR,53.8,-3.02,"3,867",230,0.74,4.44,0.13,5.20
+RN3,Acute,Great Western Hospitals NHS Foundation Trust,Great Western Hospital,Marlborough Road,NULL,Swindon,Wiltshire,SN3 6BB,51.5,-1.73,"3,062",145,0.75,4.50,0.13,5.20
+RDY,Health and Care,Dorset Healthcare University NHS Foundation Trust,Sentinel House,4 - 6 Nuffield Road,Nuffield Industrial Estate,Poole,Dorset,BH17 0RB,50.7,-1.98,"1,910",132,0.75,4.50,No Data Provided,No Data Provided
+RBN,Acute,St Helens and Knowsley Hospitals NHS Trust,Whiston Hospital,Warrington Road,,Prescot,Merseyside,L35 5DR,53.4,-2.79,"2,426",161,0.76,4.56,0.09,3.60
+RBZ,Acute,Northern Devon Healthcare NHS Trust,North Devon District Hospital,Raleigh Park,NULL,Barnstaple,Devon,EX31 4JB,51.1,-4.05,"2,328",101,0.77,4.62,0.05,2.00
+RHQ,Acute,Sheffield Teaching Hospitals NHS Foundation Trust,Northern General Hospital,Herries Road,,Sheffield,South Yorkshire,S5 7AU,53.4,-1.46,"4,978",317,0.82,4.92,0.08,3.20
+RGM,Acute,Papworth Hospital NHS Foundation Trust,Papworth Hall,Papworth Everard,NULL,Cambridge,Cambridgeshire,CB23 3RE,52.2,-0.116,"1,002",14,0.83,4.98,0.07,2.80
+RW3,Acute,Central Manchester University Hospitals NHS Foundation Trust,"Trust Headquarters, Cobbett House",Manchester Royal Infirmary,Oxford Road,Manchester,,M13 9WL,53.5,-2.23,"4,846",353,0.83,4.98,0.1,4.00
+RWX,MentalHealth,Berkshire Healthcare NHS Foundation Trust,Fitzwilliam House,Skimped Hill Lane,NULL,Bracknell,Berkshire,RG12 1BQ,51.4,-0.756,"1,982",115,0.83,4.98,No Data Provided,No Data Provided
+RP7,MentalHealth,Lincolnshire Partnership NHS Foundation Trust,Units 8 and 9,The Point,Lions Way,Sleaford,Lincolnshire,NG34 8GG,53,-0.393,787,54,0.85,5.10,0.06,2.40
+RVY,Acute,Southport and Ormskirk Hospital NHS Trust,NULL,Town Lane,NULL,Southport,,PR8 6PN,53.6,-2.98,"1,615",134,0.85,5.10,0.08,3.20
+R1F,Acute,Isle Of Wight NHS Trust,St Mary's Hospital,Parkhurst Road,,Newport,Isle Of Wight,PO30 5TG,50.7,-1.3,"1,811",108,0.87,5.22,0.05,2.00
+RXP,Acute,County Durham and Darlington NHS Foundation Trust,Darlington Memorial Hospital,Hollyhurst Road,,Darlington,County Durham,DL3 6HX,54.5,-1.57,"2,922",123,0.88,5.28,0.1,4.00
+RTX,Acute,University Hospitals Of Morecambe Bay NHS Foundation Trust,Westmorland General Hospital,Burton Road,,Kendal,Cumbria,LA9 7RG,54.3,-2.73,"2,239",85,0.9,5.40,0.07,2.80
+RM1,Acute,Norfolk and Norwich University Hospitals NHS Foundation Trust,Norfolk and Norwich University Hospital,Colney Lane,NULL,Norwich,Norfolk,NR4 7UY,52.6,1.22,"3,323",120,0.92,5.52,0.08,3.20
+RGN,Acute,Peterborough and Stamford Hospitals NHS Foundation Trust,Peterborough City Hospital,Bretton Gate,Bretton,Peterborough,Cambridgeshire,PE3 9GZ,52.6,-0.28,"2,458",112,0.93,5.58,0.18,7.20
+RTR,Acute,South Tees Hospitals NHS Foundation Trust,The James Cook University Hospital,Marton Road,NULL,Middlesbrough,Cleveland,TS4 3BW,54.6,-1.21,"3,846",170,0.97,5.82,0.1,4.00
+RHU,Acute,Portsmouth Hospitals NHS Trust,Trust Headquarters,Queen Alexandra Hospital,Southwick Hill Road,Portsmouth,Hampshire,PO6 3LY,50.8,-1.07,"3,327",171,0.98,5.88,0.12,4.80
+RPC,Acute,Queen Victoria Hospital NHS Foundation Trust,Holtye Road,,NULL,East Grinstead,West Sussex,RH19 3DZ,51.1,-0.00322,436,17,1,6.00,0.01,0.40
+RRP,MentalHealth,"Barnet, Enfield and Haringey Mental Health NHS Trust",Trust Headquarters Block B2,St Ann's Hospital,St Ann's Road,London,,N15 3TH,51.6,-0.0935,"1,209",60,1,6.00,0.01,0.40
+RBT,Acute,Mid Cheshire Hospitals NHS Foundation Trust,Leighton Hospital,Leighton,NULL,Crewe,Cheshire,CW1 4QJ,53.1,-2.48,"2,104",75,1,6.00,0.05,2.00
+RJF,Acute,Burton Hospitals NHS Foundation Trust,Queen's Hospital,Belvedere Road,NULL,Burton-on-Trent,Staffordshire,DE13 0RB,52.8,-1.66,"1,818",81,1,6.00,0.05,2.00
+RXN,Acute,Lancashire Teaching Hospitals NHS Foundation Trust,Chief Executive's Office,Royal Preston Hospital,"Sharoe Green Lane, Fulwood",Preston,Lancashire,PR2 9HT,53.8,-2.71,"3,523",194,1,6.00,0.05,2.00
+RCX,Acute,"The Queen Elizabeth Hospital, King's Lynn. NHS Foundation Trust",Queen Elizabeth Hospital,Gayton Road,NULL,Kings Lynn,Norfolk,PE30 4ET,52.8,0.447,"1,580",66,1,6.00,0.07,2.80
+RK5,Acute,Sherwood Forest Hospitals NHS Foundation Trust,Mansfield Road,,NULL,Sutton-In-Ashfield,Nottinghamshire,NG17 4JL,53.1,-1.24,"2,831",114,1,6.00,0.07,2.80
+RPA,Acute,Medway NHS Foundation Trust,Medway Maritime Hospital,Windmill Road,,Gillingham,Kent,ME7 5NY,51.4,0.542,"2,138",94,1,6.00,0.07,2.80
+RQ8,Acute,Mid Essex Hospital Services NHS Trust,Broomfield Hospital,Court Road,NULL,Chelmsford,Essex,CM1 7ET,51.8,0.464,"2,353",83,1,6.00,0.07,2.80
+RY1,Health and Care,Liverpool Community Health NHS Trust,Liverpool Innovation Park,Digital Way,NULL,Liverpool,,L7 9NJ,53.4,-2.93,"4,434",248,1,6.00,0.09,3.60
+RTP,Acute,Surrey and Sussex Healthcare NHS Trust,East Surrey Hospital,Canada Avenue,,Redhill,Surrey,RH1 5RH,51.2,-0.161,"2,010",68,1,6.00,0.1,4.00
+RM3,Acute,Salford Royal NHS Foundation Trust,Salford Royal NHS Foundation Trust,Stott Lane,NULL,Salford,,M6 8HD,53.5,-2.32,"2,900",147,1,6.00,0.12,4.80
+RWE,Acute,University Hospitals Of Leicester NHS Trust,University Hospitals of Leicester Headquarters,"Level 3, Balmoral Building","Leicester Royal Infirmary, Infirmary Square",Leicester,Leicestershire,LE1 5WW,52.6,-1.14,"4,495",174,1,6.00,0.13,5.20
+RVW,Acute,North Tees and Hartlepool NHS Foundation Trust,University Hospital Of Hartlepool,Holdforth Road,NULL,Hartlepool,Cleveland,TS24 9AH,54.7,-1.23,"2,145",106,1,6.00,0.14,5.60
+RW6,Acute,Pennine Acute Hospitals NHS Trust,Trust Headquarters,North Manchester General Hospital,"Delaunays Road, Crumpsall",Manchester,Greater Manchester,M8 5RB,53.5,-2.23,"4,908",251,1,6.00,0.14,5.60
+RJR,Acute,Countess Of Chester Hospital NHS Foundation Trust,The Countess Of Chester Health Park,NULL,NULL,Chester,Cheshire,CH2 1UL,53.2,-2.9,"1,688",98,1,6.00,0.15,6.00
+REM,Acute,Aintree University Hospital NHS Foundation Trust,NULL,Aintree University Hospital,Lower Lane,Liverpool,Merseyside,L9 7AL,53.5,-2.94,"3,118",162,1,6.00,0.16,6.40
+RNS,Acute,Northampton General Hospital NHS Trust,Cliftonville,,,Northampton,Northamptonshire,NN1 5BD,52.2,-0.887,"2,065",76,1,6.00,0.18,7.20
+RD3,Acute,Poole Hospital NHS Foundation Trust,Longfleet Road,,NULL,Poole,Dorset,BH15 2JB,50.7,-1.97,"1,513",40,1,6.00,0.2,8.00
+RY9,Health and Care,Hounslow and Richmond Community Healthcare NHS Trust,Thames House (headquarters),180 - 194 High Street,NULL,Teddington,Middlesex,TW11 8HU,51.4,-0.327,123,10,1,6.00,1,40.00
+RVN,MentalHealth,Avon and Wiltshire Mental Health Partnership NHS Trust,Jenner House,Langley Park,NULL,Chippenham,Wiltshire,SN15 1GG,51.5,-2.11,"1,464",72,1,6.00,1.5,60.00
+RN5,Acute,Hampshire Hospitals NHS Foundation Trust,NULL,Aldermaston Road,NULL,Basingstoke,Hampshire,RG24 9NA,51.3,-1.11,"2,722",135,1,6.00,No Data Provided,No Data Provided
+RNN,Health and Care,Cumbria Partnership NHS Foundation Trust,Voreda,Portland Place,NULL,Penrith,,CA11 7QQ,54.7,-2.76,999,51,1,6.00,No Data Provided,No Data Provided
+RRD,MentalHealth,North Essex Partnership NHS Foundation Trust,Stapleford House,Stapleford Close,,Chelmsford,Essex,CM2 0QX,51.7,0.466,722,30,1,6.00,No Data Provided,No Data Provided
+RY5,Health and Care,Lincolnshire Community Health Services NHS Trust,Bridge House,Unit 16,"The Point, Lions Way",Sleaford,Lincolnshire,NG34 8GG,53,-0.393,"1,271",95,1,6.00,No Data Provided,No Data Provided
+RAJ,Acute,Southend University Hospital NHS Foundation Trust,NULL,Prittlewell Chase,NULL,Westcliff On Sea,Essex,SS0 0RY,51.6,0.689,"1,766",72,1.03,6.18,0.08,3.20
+RFF,Acute,Barnsley Hospital NHS Foundation Trust,NULL,Gawber Road,NULL,Barnsley,,S75 2EP,53.6,-1.5,"1,214",72,1.03,6.18,0.12,4.80
+RBD,Acute,Dorset County Hospital NHS Foundation Trust,Dorset County Hospital,Williams Avenue,,Dorchester,Dorset,DT1 2JY,50.7,-2.45,772,48,1.05,6.30,0.18,7.20
+RBL,Acute,Wirral University Teaching Hospital NHS Foundation Trust,Arrowe Park Hospital,Arrowe Park Road,Upton,Wirral,Merseyside,CH49 5PE,53.4,-3.1,"3,668",159,1.06,6.36,0.35,14.00
+R1H,Acute,Barts Health NHS Trust,Trust headquarters,"5th Floor, Aneurin Bevan House",81 Commercial Road,London,,E1 1RD,51.5,-0.0645,"2,007",138,1.08,6.48,0.18,7.20
+REP,Acute,Liverpool Women's NHS Foundation Trust,Liverpool Womens Hospital,Crown Street,NULL,Liverpool,,L8 7SS,53.4,-2.96,869,22,1.1,6.60,0.12,4.80
+RVV,Acute,East Kent Hospitals University NHS Foundation Trust,Kent and Canterbury Hospital,Ethelbert Road,,Canterbury,Kent,CT1 3NG,51.3,1.09,"4,149",256,1.11,6.66,0.09,3.60
+RH8,Acute,Royal Devon and Exeter NHS Foundation Trust,Royal Devon and Exeter Hospital,Barrack Road,,Exeter,Devon,EX2 5DW,50.7,-3.51,"2,072",67,1.12,6.72,0.19,7.60
+RWD,Acute,United Lincolnshire Hospitals NHS Trust,Trust Headquarters,Lincoln County Hospital,Greetwell Road,Lincoln,Lincolnshire,LN2 4AX,53.2,-0.524,"4,294",175,1.13,6.78,0.06,2.40
+RA9,Acute,South Devon Healthcare NHS Foundation Trust,Hengrave House,Torbay Hospital,Newton Road,Torquay,Devon,TQ2 7AA,50.5,-3.55,"2,438",138,1.13,6.78,0.07,2.80
+RJN,Acute,East Cheshire NHS Trust,Macclesfield District General Hospital,Victoria Road,NULL,Macclesfield,Cheshire,SK10 3BL,53.3,-2.14,"1,262",56,1.14,6.84,0.08,3.20
+RXW,Acute,Shrewsbury and Telford Hospital NHS Trust,Royal Shrewsbury Hospital,Mytton Oak Road,NULL,Shrewsbury,Shropshire,SY3 8XQ,52.7,-2.79,"4,279",163,1.15,6.90,0.19,7.60
+RV9,MentalHealth,Humber NHS Foundation Trust,"Trust HQ, Willerby Hill",Beverley Road,Willerby,Hull,Yorkshire(East Riding),HU10 6ED,53.8,-0.451,"1,453",94,1.15,6.90,1.15,46.00
+RWV,MentalHealth,Devon Partnership NHS Trust,Wonford House Hospital,Dryden Road,,Exeter,Devon,EX2 5AF,50.7,-3.51,699,22,1.16,6.96,0.02,0.80
+RDD,Acute,Basildon and Thurrock University Hospitals NHS Foundation Trust,Basildon Hospital,,Nethermayne,Basildon,Essex,SS16 5NL,51.6,0.449,"2,466",102,1.16,6.96,0.05,2.00
+RBQ,Acute,Liverpool Heart and Chest NHS Foundation Trust,Thomas Drive,NULL,NULL,Liverpool,Merseyside,L14 3PE,53.4,-2.9,"1,095",91,1.16,6.96,0.08,3.20
+RYW,Health and Care,Birmingham Community Healthcare NHS Trust,Trust Headquarters,"3, Priestley Wharf",Holt Street,Birmingham,West Midlands,B7 4BN,52.5,-1.89,"1,507",87,1.16,6.96,0.08,3.20
+RYR,Acute,Western Sussex Hospitals NHS Foundation Trust,Worthing Hospital,Lyndhurst Road,,Worthing,West Sussex,BN11 2DH,50.8,-0.365,"2,215",126,1.17,7.02,0.05,2.00
+RD8,Acute,Milton Keynes Hospital NHS Foundation Trust,Standing Way,Eaglestone,,Milton Keynes,Buckinghamshire,MK6 5LD,52,-0.736,"2,019",108,1.17,7.02,0.08,3.20
+RWW,Acute,Warrington and Halton Hospitals NHS Foundation Trust,Warrington Hospital,Lovely Lane,NULL,Warrington,Cheshire,WA5 1QG,53.4,-2.61,"2,075",119,1.17,7.02,0.09,3.60
+RQW,Acute,The Princess Alexandra Hospital NHS Trust,Hamstel Road,Hamstel Road,NULL,Harlow,Essex,CM20 1QX,51.8,0.0856,"1,056",44,1.17,7.02,0.11,4.40
+RGP,Acute,James Paget University Hospitals NHS Foundation Trust,Lowestoft Road,,Gorleston,Great Yarmouth,Norfolk,NR31 6LA,52.6,1.72,"1,657",57,1.17,7.02,0.12,4.80
+RDR,Health and Care,Sussex Community NHS Trust,Brighton General Hospital,Elm Grove,NULL,Brighton,,BN2 3EW,50.8,-0.114,548,40,1.17,7.02,0.13,5.20
+RAE,Acute,Bradford Teaching Hospitals NHS Foundation Trust,Bradford Royal Infirmary,Duckworth Lane,NULL,Bradford,West Yorkshire,BD9 6RJ,53.8,-1.79,"2,722",89,1.17,7.02,0.19,7.60
+RL4,Acute,The Royal Wolverhampton NHS Trust,New Cross Hospital,Wolverhampton Road,Heath Town,Wolverhampton,,WV10 0QP,52.6,-2.1,"3,750",140,1.17,7.02,0.2,8.00
+RTF,Acute,Northumbria Healthcare NHS Foundation Trust,Rake Lane,,NULL,North Shields,Tyne and Wear,NE29 8NH,55,-1.47,"3,471",206,1.17,7.02,0.51,20.40
+RW1,MentalHealth,Southern Health NHS Foundation Trust,NULL,Tatchbury Mount,Calmore,Southampton,Hampshire,SO40 2RZ,50.9,-1.53,"3,778",282,1.19,7.14,0.99,39.60
+R1C,Health and Care,Solent NHS Trust,Adelaide Health Centre,Western Community Hospital,William Macleod Way,Southampton,Hampshire,SO16 4XE,50.9,-1.45,836,60,1.2,7.20,0.12,4.80
+RDZ,Acute,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Royal Bournemouth General Hospital,Castle Lane East,,Bournemouth,Dorset,BH7 7DW,50.7,-1.82,"2,083",95,1.2,7.20,0.13,5.20
+RXH,Acute,Brighton and Sussex University Hospitals NHS Trust,Royal Sussex County Hospital,Eastern Road,,Brighton,East Sussex,BN2 5BE,50.8,-0.119,"1,124",80,1.2,7.20,0.14,5.60
+RTD,Acute,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Freeman Hospital,Freeman Road,High Heaton,Newcastle-upon-Tyne,Tyne and Wear,NE7 7DN,55,-1.59,"3,746",231,1.2,7.20,0.18,7.20
+RK9,Acute,Plymouth Hospitals NHS Trust,Derriford Hospital,Derriford Road,NULL,Plymouth,Devon,PL6 8DH,50.4,-4.11,"2,047",134,1.2,7.20,0.21,8.40
+RF4,Acute,"Barking, Havering and Redbridge University Hospitals NHS Trust",Queen's Hospital,Rom Valley Way,NULL,Romford,Essex,RM7 0AG,51.6,0.179,"2,069",178,1.2,7.20,0.27,10.80
+R1A,Health and Care,Worcestershire Health and Care NHS Trust,Isaac Maddox House,Shrub Hill Industrial Estate,NULL,Worcester,Worcestershire,WR4 9RW,52.2,-2.21,"1,885",133,1.21,7.26,0.05,2.00
+RR7,Acute,Gateshead Health NHS Foundation Trust,Queen Elizabeth Hospital,Sheriff Hill,NULL,Gateshead,Tyne and Wear,NE9 6SX,54.9,-1.58,"1,816",67,1.25,7.50,0.1,4.00
+REF,Acute,Royal Cornwall Hospitals NHS Trust,Royal Cornwall Hospital,Treliske,NULL,Truro,Cornwall,TR1 3LJ,50.3,-5.09,"2,275",130,1.26,7.56,0.06,2.40
+RXK,Acute,Sandwell and West Birmingham Hospitals NHS Trust,City Hospital,Dudley Road,NULL,Birmingham,West Midlands,B18 7QH,52.5,-1.93,"3,239",150,1.26,7.56,0.07,2.80
+RFS,Acute,Chesterfield Royal Hospital NHS Foundation Trust,Top Road,Calow,NULL,Chesterfield,Derbyshire,S44 5BL,53.2,-1.4,"2,189",106,1.26,7.56,0.14,5.60
+RQ6,Acute,Royal Liverpool and Broadgreen University Hospitals NHS Trust,Royal Liverpool University Hospital,Prescot Street,,Liverpool,Merseyside,L7 8XP,53.4,-2.97,"2,705",174,1.27,7.62,0.09,3.60
+RFR,Acute,The Rotherham NHS Foundation Trust,Rotherham Hospital,Moorgate Road,NULL,Rotherham,,S60 2UD,53.4,-1.34,"1,805",80,1.28,7.68,0.1,4.00
+RPG,MentalHealth,Oxleas NHS Foundation Trust,Pinewood House,Pinewood Place,NULL,Dartford,Kent,DA2 7WG,51.4,0.178,"2,649",139,1.28,7.68,0.14,5.60
+RKB,Acute,University Hospitals Coventry and Warwickshire NHS Trust,University Hospital,Clifford Bridge Road,NULL,Coventry,,CV2 2DX,52.4,-1.44,"4,677",204,1.28,7.68,0.25,10.00
+RR8,Acute,Leeds Teaching Hospitals NHS Trust,St. James's University Hospital,Beckett Street,,Leeds,West Yorkshire,LS9 7TF,53.8,-1.52,"4,141",170,1.29,7.74,0.19,7.60
+RXC,Acute,East Sussex Healthcare NHS Trust,St. Annes House,729 The Ridge,NULL,St. Leonards-on-Sea,East Sussex,TN37 7PT,50.9,0.561,"2,912",146,1.3,7.80,0.12,4.80
+RDE,Acute,Colchester Hospital University NHS Foundation Trust,Colchester General Hospital,Turner Road,NULL,Colchester,Essex,CO4 5JL,51.9,0.899,"1,941",101,1.33,7.98,0.03,1.20
+RAP,Acute,North Middlesex University Hospital NHS Trust,NULL,Sterling Way,NULL,London,,N18 1QX,51.6,-0.0748,791,29,1.33,7.98,0.04,1.60
+RBK,Acute,Walsall Healthcare NHS Trust,Manor Hospital,Moat Road,NULL,Walsall,,WS2 9PS,52.6,-2,"1,646",76,1.33,7.98,0.04,1.60
+RD1,Acute,Royal United Hospital Bath NHS Trust,Royal United Hospital Bath NHS Trust,Combe Park,NULL,Bath,,BA1 3NG,51.4,-2.39,"1,425",101,1.33,7.98,0.05,2.00
+RJL,Acute,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust,Diana Princess Of Wales Hospital,Scartho Road,NULL,Grimsby,North East Lincolnshire,DN33 2BA,53.5,-0.0969,"3,161",85,1.33,7.98,0.05,2.00
+RN7,Acute,Dartford and Gravesham NHS Trust,Darent Valley Hospital,Darenth Wood Road,,Dartford,Kent,DA2 8DA,51.4,0.257,"1,550",51,1.33,7.98,0.08,3.20
+RC9,Acute,Luton and Dunstable University Hospital NHS Foundation Trust,NULL,Lewsey Road,NULL,Luton,Bedfordshire,LU4 0DZ,51.9,-0.476,"1,385",46,1.33,7.98,0.1,4.00
+RTK,Acute,Ashford and St Peter's Hospitals NHS Foundation Trust,St Peters Hospital,Guildford Road,NULL,Chertsey,Surrey,KT16 0PZ,51.4,-0.527,"1,976",109,1.33,7.98,0.14,5.60
+RLN,Acute,City Hospitals Sunderland NHS Foundation Trust,Sunderland Royal Hospital,Kayll Road,NULL,Sunderland,,SR4 7TP,54.9,-1.41,"1,933",95,1.33,7.98,0.18,7.20
+RTG,Acute,Derby Hospitals NHS Foundation Trust,Royal Derby Hospital,Uttoxeter Road,NULL,Derby,Derbyshire,DE22 3NE,52.9,-1.51,"3,634",174,1.37,8.22,0.1,4.00
+RP5,Acute,Doncaster and Bassetlaw Hospitals NHS Foundation Trust,Doncaster Royal Infirmary,Armthorpe Road,NULL,Doncaster,,DN2 5LT,53.5,-1.11,"2,269",128,1.37,8.22,0.25,10.00
+RRK,Acute,University Hospital Birmingham NHS Foundation Trust,"Trust HQ, Po Box 9551",Queen Elizabeth Medical Centre,Edgbaston,Birmingham,West Midlands,B15 2TH,52.5,-1.94,"3,070",287,1.4,8.40,0.04,1.60
+RTH,Acute,Oxford University Hospitals NHS Trust,John Radcliffe Hospital,Headley Way,Headington,Oxford,Oxfordshire,OX3 9DU,51.8,-1.22,"4,667",302,1.4,8.40,0.07,2.80
+RWY,Acute,Calderdale and Huddersfield NHS Foundation Trust,Royal Infirmary,Acre Street,,Huddersfield,West Yorkshire,HD3 3EA,53.7,-1.82,"2,514",138,1.4,8.40,0.08,3.20
+RHM,Acute,University Hospital Southampton NHS Foundation Trust,Southampton General Hospital,Tremona Road,NULL,Southampton,Hampshire,SO16 6YD,50.9,-1.44,"2,862",102,1.4,8.40,0.1,4.00
+RNZ,Acute,Salisbury NHS Foundation Trust,Salisbury District Hospital,Odstock Road,,Salisbury,Wiltshire,SP2 8BJ,51,-1.79,"2,158",94,1.4,8.40,0.14,5.60
+RLU,Acute,Birmingham Women's NHS Foundation Trust,Birmingham Womens Hospital,Mindelsohn Way,Edgbaston,Birmingham,West Midlands,B15 2TG,52.5,-1.94,559,51,1.4,8.40,0.44,17.60
+RA7,Acute,University Hospitals Bristol NHS Foundation Trust,Marlborough Street,,,Bristol,Avon,BS1 3NU,51.5,-2.59,"1,828",47,1.41,8.46,0.38,15.20
+RWP,Acute,Worcestershire Acute Hospitals NHS Trust,Worcestershire Royal Hospital,Charles Hastings Way,NULL,Worcester,Worcestershire,WR5 1DD,52.2,-2.18,"2,708",132,1.42,8.52,0.05,2.00
+RMP,Acute,Tameside Hospital NHS Foundation Trust,Tameside General Hospital,Fountain Street,NULL,Ashton-under-Lyne,Lancashire,OL6 9RW,53.5,-2.07,"1,354",66,1.43,8.58,0.22,8.80
+RXT,MentalHealth,Birmingham and Solihull Mental Health NHS Foundation Trust,Unit 1,50 Summer Hill Road,NULL,Birmingham,,B1 3RB,52.5,-1.92,"1,835",118,1.43,8.58,1.43,57.20
+RCB,Acute,York Teaching Hospital NHS Foundation Trust,The York Hospital,Wigginton Road,NULL,York,North Yorkshire,YO31 8HE,54,-1.08,"2,988",163,1.47,8.82,0.08,3.20
+RJE,Acute,University Hospital Of North Staffordshire NHS Trust,NULL,Hartshill,NULL,Stoke on Trent,Staffordshire,ST4 6QG,53,-2.22,"4,958",219,1.47,8.82,0.09,3.60
+RLT,Acute,George Eliot Hospital NHS Trust,Lewes House,College Street,NULL,Nuneaton,Warwickshire,CV10 7DJ,52.5,-1.48,"1,455",55,1.5,9.00,0.05,2.00
+RC1,Acute,Bedford Hospital NHS Trust,South Wing,Kempston Road,NULL,Bedford,Bedfordshire,MK42 9DJ,52.1,-0.472,"1,149",57,1.5,9.00,0.07,2.80
+RM2,Acute,University Hospital Of South Manchester NHS Foundation Trust,Wythenshawe Hospital,Southmoor Road,Wythenshawe,Manchester,Greater Manchester,M23 9LT,53.4,-2.29,"3,257",104,1.5,9.00,0.08,3.20
+RE9,Acute,South Tyneside NHS Foundation Trust,South Tyneside District Hospital,Harton Lane,NULL,South Shields,Tyne and Wear,NE34 0PL,55,-1.43,"1,206",52,1.5,9.00,0.09,3.60
+RA2,Acute,Royal Surrey County NHS Foundation Trust,Royal Surrey County Hospital,Egerton Road,NULL,Guildford,Surrey,GU2 7XX,51.2,-0.608,"1,749",73,1.5,9.00,0.1,4.00
+RJ6,Acute,Croydon Health Services NHS Trust,Croydon University Hospital,530 London Road,NULL,Croydon,,CR7 7YE,51.4,-0.11,794,29,1.5,9.00,0.11,4.40
+RVJ,Acute,North Bristol NHS Trust,Frenchay Hospital,Beckspool Road,Frenchay,Bristol,,BS16 1JE,51.5,-2.52,"2,377",161,1.5,9.00,0.14,5.60
+RCF,Acute,Airedale NHS Foundation Trust,Airedale General Hospital,Skipton Road,Steeton,Keighley,West Yorkshire,BD20 6TD,53.9,-1.96,"1,455",50,1.5,9.00,0.15,6.00
+RXQ,Acute,Buckinghamshire Healthcare NHS Trust,Amersham Hospital,Whielden Street,NULL,Amersham,Buckinghamshire,HP7 0JD,51.7,-0.622,"3,221",132,1.5,9.00,0.15,6.00
+RAS,Acute,The Hillingdon Hospitals NHS Foundation Trust,NULL,Pield Heath Road,NULL,Uxbridge,Middlesex,UB8 3NN,51.5,-0.462,"2,058",96,1.5,9.00,0.2,8.00
+RHW,Acute,Royal Berkshire NHS Foundation Trust,Royal Berkshire Hospital,London Road,,Reading,Berkshire,RG1 5AN,51.5,-0.959,"1,672",75,1.5,9.00,0.22,8.80
+RJZ,Acute,King's College Hospital NHS Foundation Trust,King's College Hospital,Denmark Hill,NULL,London,,SE5 9RS,51.5,-0.0924,"1,145",59,1.5,9.00,0.22,8.80
+RT3,Acute,Royal Brompton and Harefield NHS Foundation Trust,Royal Brompton Hospital,Sydney Street,,London,Greater London,SW3 6NP,51.5,-0.172,675,35,1.5,9.00,No Data Provided,No Data Provided
+RNA,Acute,The Dudley Group NHS Foundation Trust,C Block,Russells Hall Hospital,Pensnett Road,Dudley,West Midlands,DY1 2HQ,52.5,-2.12,"1,960",76,1.53,9.18,0.04,1.60
+RJC,Acute,South Warwickshire NHS Foundation Trust,Warwick Hospital,Lakin Road,NULL,Warwick,Warwickshire,CV34 5BW,52.3,-1.58,"2,039",77,1.57,9.42,0.14,5.60
+RR1,Acute,Heart Of England NHS Foundation Trust,Birmingham Heartlands Hospital,Bordesley Green East,,Birmingham,West Midlands,B9 5ST,52.5,-1.83,"4,402",190,1.58,9.48,0.1,4.00
+RA3,Acute,Weston Area Health NHS Trust,Weston General Hospital,Grange Road,Uphill,Weston-Super-Mare,,BS23 4TQ,51.3,-2.97,807,56,1.6,9.60,0.1,4.00
+RAX,Acute,Kingston Hospital NHS Foundation Trust,Galsworthy Road,,,Kingston Upon Thames,Surrey,KT2 7QB,51.4,-0.284,796,32,1.6,9.60,0.18,7.20
+RYX,Health and Care,Central London Community Healthcare NHS Trust,NULL,Central London Community Healthcare NHS Trust Head Office,"7th Floor, 64 Victoria Street",London,,SW1E 6QP,51.5,-0.139,"1,033",142,1.6,9.60,0.5,20.00
+RJ2,Acute,The Lewisham Healthcare NHS Trust,University Hospital Lewisham,Lewisham High Street,,London,Greater London,SE13 6LH,51.5,-0.0181,943,79,1.63,9.78,0.23,9.20
+RRF,Acute,"Wrightington, Wigan and Leigh NHS Foundation Trust",The Elms,Royal Albert Edward Infirmary,Wigan Lane,Wigan,Lancashire,WN1 2NN,53.6,-2.63,"2,526",144,1.66,9.96,0.1,4.00
+RRJ,Acute,The Royal Orthopaedic Hospital NHS Foundation Trust,NULL,Bristol Road South,Northfield,Birmingham,West Midlands,B31 2AP,52.4,-1.96,336,20,1.66,9.96,0.1,4.00
+RWA,Acute,Hull and East Yorkshire Hospitals NHS Trust,Hull Royal Infirmary,Anlaby Road,NULL,Hull,,HU3 2JZ,53.7,-0.359,"3,614",169,1.67,10.02,0.04,1.60
+RDU,Acute,Frimley Park Hospital NHS Foundation Trust,Portsmouth Road,,Frimley,Camberley,Surrey,GU16 7UJ,51.3,-0.743,"3,862",154,1.67,10.02,0.07,2.80
+RXF,Acute,Mid Yorkshire Hospitals NHS Trust,Trust HQ and Education Centre,Aberford Road,NULL,Wakefield,West Yorkshire,WF1 4DG,53.7,-1.49,"3,846",173,1.67,10.02,0.13,5.20
+RCD,Acute,Harrogate and District NHS Foundation Trust,Strayside Wing,Harrogate District Hospital,Lancaster Park Road,Harrogate,North Yorkshire,HG2 7SX,54,-1.52,683,22,1.67,10.02,0.14,5.60
+RX1,Acute,Nottingham University Hospitals NHS Trust,Trust Headquarters,City Hospital campus,Hucknall Road,Nottingham,Nottinghamshire,NG5 1PB,53,-1.16,"4,027",230,1.67,10.02,0.17,6.80
+RY4,Health and Care,Hertfordshire Community NHS Trust,"Unit 1a, Howard Court",14 Tewin Road,NULL,Welwyn Garden City,Hertfordshire,AL7 1BW,51.8,-0.194,"1,937",247,1.67,10.02,No Data Provided,No Data Provided
+RNQ,Acute,Kettering General Hospital NHS Foundation Trust,Kettering General Hospital,Rothwell Road,NULL,Kettering,Northamptonshire,NN16 8UZ,52.4,-0.742,"1,613",50,1.7,10.20,0.15,6.00
+RWH,Acute,East and North Hertfordshire NHS Trust,Lister Hospital,Coreys Mill Lane,NULL,Stevenage,Hertfordshire,SG1 4AB,51.9,-0.214,"3,206",173,1.73,10.38,0.61,24.40
+RET,Acute,The Walton Centre NHS Foundation Trust,Lower Lane,,,Liverpool,Merseyside,L9 7LJ,53.5,-2.93,48,23,1.83,10.98,0.15,6.00
+RWJ,Acute,Stockport NHS Foundation Trust,Stepping Hill Hospital,Poplar Grove,,Stockport,Cheshire,SK2 7JE,53.4,-2.13,"1,746",103,1.83,10.98,0.19,7.60
+RA4,Acute,Yeovil District Hospital NHS Foundation Trust,Yeovil District Hospital,Higher Kingston,NULL,Yeovil,Somerset,BA21 4AT,50.9,-2.63,991,30,1.83,10.98,0.47,18.80
+RTE,Acute,Gloucestershire Hospitals NHS Foundation Trust,Trust HQ,1 College Lawn,NULL,Cheltenham,Gloucestershire,GL53 7AG,51.9,-2.07,"2,668",149,1.87,11.22,0.13,5.20
+RXR,Acute,East Lancashire Hospitals NHS Trust,Royal Blackburn Hospital,Haslingden Road,NULL,Blackburn,Lancashire,BB2 3HH,53.7,-2.47,"3,058",239,1.9,11.40,0.07,2.80
+RKL,MentalHealth,West London Mental Health NHS Trust,Trust Headquarters,St Bernard's Site,Uxbridge Road,Southall,Middlesex,UB1 3EU,51.5,-0.352,"1,450",43,1.93,11.58,No Data Provided,No Data Provided
+RGQ,Acute,Ipswich Hospital NHS Trust,Heath Road,,,Ipswich,Suffolk,IP4 5PD,52.1,1.2,"1,909",90,2,12.00,0.07,2.80
+RBA,Acute,Taunton and Somerset NHS Foundation Trust,Musgrove Park Hospital,,,Taunton,Somerset,TA1 5DA,51,-3.12,"1,388",42,2,12.00,0.08,3.20
+RLQ,Acute,Wye Valley NHS Trust,The County Hospital,Union Walk,NULL,Hereford,Herefordshire,HR1 2ER,52.1,-2.71,841,48,2,12.00,0.08,3.20
+RWF,Acute,Maidstone and Tunbridge Wells NHS Trust,Maidstone Hospital,Hermitage Lane,NULL,Maidstone,Kent,ME16 9QQ,51.3,0.483,"2,737",75,2,12.00,0.11,4.40
+RWG,Acute,West Hertfordshire Hospitals NHS Trust,Trust Offices,Watford General Hospital,Vicarage Road,Watford,Hertfordshire,WD18 0HB,51.6,-0.406,"2,362",99,2,12.00,0.13,5.20
+RGR,Acute,West Suffolk NHS Foundation Trust,West Suffolk Hospital,Hardwick Lane,NULL,Bury St Edmunds,Suffolk,IP33 2QZ,52.2,0.709,"2,073",95,2,12.00,0.16,6.40
+RQ3,Acute,Birmingham Children's Hospital NHS Foundation Trust,Steelhouse Lane,,,Birmingham,West Midlands,B4 6NH,52.5,-1.9,69,7,2,12.00,2,80.00
+RVR,Acute,Epsom and St Helier University Hospitals NHS Trust,St Helier Hospital,Wrythe Lane,NULL,Carshalton,Surrey,SM5 1AA,51.4,-0.184,"1,957",97,2.17,13.02,0.29,11.60
+RQM,Acute,Chelsea and Westminster Hospital NHS Foundation Trust,NULL,369 Fulham Road,NULL,London,,SW10 9NH,51.5,-0.182,"1,203",50,2.2,13.20,0.28,11.20
+RYJ,Acute,Imperial College Healthcare NHS Trust,St. Marys Hospital,Praed Street,,London,Greater London,W2 1NY,51.5,-0.175,"1,024",46,2.2,13.20,0.41,16.40
+RJ7,Acute,St George's Healthcare NHS Trust,St George's Hospital,Blackshaw Road,Tooting,London,Greater London,SW17 0QT,51.4,-0.176,"1,203",84,2.25,13.50,0.2,8.00
+RAL,Acute,Royal Free London NHS Foundation Trust,Royal Free Hospital,Pond Street,NULL,London,,NW3 2QG,51.6,-0.167,"2,207",123,2.25,13.50,0.62,24.80
+RAT,MentalHealth,North East London NHS Foundation Trust,Trust Head Office,Goodmayes Hospital Site,Barley Lane,Ilford,Essex,IG3 8XJ,51.6,0.11,"4,856",430,2.4,14.40,No Data Provided,No Data Provided
+RGT,Acute,Cambridge University Hospitals NHS Foundation Trust,NULL,Hills Road,NULL,Cambridge,Cambridgeshire,CB2 0QQ,52.2,0.138,"4,265",363,2.5,15.00,0.23,9.20
+RV5,MentalHealth,South London and Maudsley NHS Foundation Trust,Maudsley Hospital,Denmark Hill,,London,Greater London,SE5 8AZ,51.5,-0.0924,"1,196",49,2.5,15.00,1.1,44.00
+RWR,MentalHealth,Hertfordshire Partnership University NHS Foundation Trust,Hertfordshire Partnership University NHS Foundation Trust,99 Waverley Road,NULL,St. Albans,,AL3 5TL,51.8,-0.347,"1,215",111,2.7,16.20,1,40.00
+RKE,Acute,The Whittington Hospital NHS Trust,The Whittington Hospital,Magdala Avenue,,London,Greater London,N19 5NF,51.6,-0.139,341,20,3,18.00,1.88,75.20
+RJ1,Acute,Guy's and St Thomas' NHS Foundation Trust,Trust Offices,Guy's Hospital,Great Maze Pond,London,Greater London,SE1 9RT,51.5,-0.0894,505,61,3.2,19.20,0.25,10.00
+REN,Acute,The Clatterbridge Cancer Centre NHS Foundation Trust,Clatterbridge Road,Bebington,NULL,Wirral,,CH63 4JY,53.3,-3.03,746,25,No Data Provided,No Data Provided,0.05,2.00
+RQX,Acute,Homerton University Hospital NHS Foundation Trust,Homerton Row,,,London,Greater London,E9 6SR,51.6,-0.0471,244,5,No Data Provided,No Data Provided,0.1,4.00
+RNK,MentalHealth,Tavistock and Portman NHS Foundation Trust,The Tavistock Centre,120 Belsize Lane,NULL,London,,NW3 5BA,51.5,-0.176,73,2,No Data Provided,No Data Provided,0.2,8.00
+RRV,Acute,University College London Hospitals NHS Foundation Trust,NULL,250 Euston Road,NULL,London,,NW1 2PG,51.5,-0.138,139,20,No Data Provided,No Data Provided,0.83,33.20
+RYG,MentalHealth,Coventry and Warwickshire Partnership NHS Trust,Wayside House,Wilsons Lane,NULL,Coventry,Warwickshire,CV6 6NY,52.5,-1.49,"1,318",68,No Data Provided,No Data Provided,0.83,33.20
